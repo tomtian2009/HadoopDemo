@@ -22,8 +22,8 @@
 
 手机号码		上行流量        下行流量		总流量
 
-#### 运行结果
-![程序运行结果](https://raw.githubusercontent.com/tomtian2009/HadoopDemo/master/img/MapReduct%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE1-%E5%AE%B6%E4%B9%90.png)
+#### 运行结果 
+![程序运行结果详见 img 文件中图片](https://raw.githubusercontent.com/tomtian2009/HadoopDemo/master/img/MapReduct%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE1-%E5%AE%B6%E4%B9%90.png)
 
 #### 关于我，你可以在以下途径找到我
  - 邮箱：jiale_tian@qq.com
